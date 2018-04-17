@@ -1,5 +1,4 @@
 *{padding: 0; margin: 0;font-family: Book Antiqua;}
-
 .page_size{
     width: 1280px;
     margin: 0 auto;
@@ -86,10 +85,10 @@ header{
     border-radius: 5px;
 }
 #main_img_1 a:hover{
-    background-color: #444444;
+    background-color: rgba(44,44,44,70%);
 }
 #main_img_1 a:active{
-    background-color: #222222;
+    background-color: rgba(22,22,22,70%);
 }
 /*New Product*/
 #main_newProduct{
@@ -187,11 +186,11 @@ header{
 }
 
 #main_img_2 a:hover {
-    background-color: #999999;
+    background-color: rgba(99,99,99,70%);
 }
 
 #main_img_2 a:active{
-    background-color: #666666;
+    background-color: rgba(66,66,66,70%);
 }
 /*main contact*/
 #main_contact{
@@ -223,6 +222,7 @@ header{
 .main_contact_box_1 input{
     margin-left: 30px;
     margin-top: 10px;
+    padding-bottom: 5px;
     font-size: 24px;
 }
 .main_contact_box_1 a{
